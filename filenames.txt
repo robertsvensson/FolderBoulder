@@ -6,6 +6,7 @@ test.html
 test.php
 info.txt
 backup.html
+backup.zip
 test.zip
 site.zip
 data.zip
