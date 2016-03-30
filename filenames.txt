@@ -10,3 +10,12 @@ backup.zip
 test.zip
 site.zip
 data.zip
+password
+password
+password.txt
+.passwd
+passwd
+.htaccess
+htaccess
+.htpasswd
+htpasswd
